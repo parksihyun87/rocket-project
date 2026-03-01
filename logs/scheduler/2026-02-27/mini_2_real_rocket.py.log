@@ -1,0 +1,63 @@
+[2026-02-27T16:14:22.528+0000] {processor.py:161} INFO - Started process (PID=280) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:22.529+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:14:22.530+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:22.530+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:22.543+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:22.628+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:22.628+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:14:22.635+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:22.635+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:14:22.649+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.125 seconds
+[2026-02-27T16:14:52.784+0000] {processor.py:161} INFO - Started process (PID=295) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:52.784+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:14:52.786+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:52.786+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:52.798+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:14:52.821+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:52.821+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:14:52.832+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:14:52.831+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:14:52.844+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.064 seconds
+[2026-02-27T16:15:23.045+0000] {processor.py:161} INFO - Started process (PID=310) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:23.046+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:15:23.047+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:23.047+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:23.061+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:23.084+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:23.084+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:15:23.096+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:23.096+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:15:23.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.068 seconds
+[2026-02-27T16:15:53.306+0000] {processor.py:161} INFO - Started process (PID=325) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:53.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:15:53.308+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:53.308+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:53.321+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:15:53.346+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:53.346+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:15:53.357+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:15:53.356+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:15:53.369+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.067 seconds
+[2026-02-27T16:16:23.572+0000] {processor.py:161} INFO - Started process (PID=340) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:23.572+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:16:23.574+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:23.574+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:23.587+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:23.609+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:23.609+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:16:23.617+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:23.617+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:16:23.628+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.062 seconds
+[2026-02-27T16:16:26.702+0000] {processor.py:161} INFO - Started process (PID=355) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:26.703+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:16:26.704+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:26.704+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:26.723+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:26.744+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:26.744+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:16:26.753+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:26.752+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:16:26.766+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.069 seconds
+[2026-02-27T16:16:56.975+0000] {processor.py:161} INFO - Started process (PID=370) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:56.976+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:16:56.977+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:56.977+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:56.989+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:16:57.010+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:57.010+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:16:57.018+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:16:57.018+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:16:57.029+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.058 seconds
+[2026-02-27T16:17:27.260+0000] {processor.py:161} INFO - Started process (PID=385) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:27.260+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:17:27.262+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:27.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:27.274+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:27.295+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:27.294+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:17:27.302+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:27.302+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:17:27.314+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.058 seconds
+[2026-02-27T16:17:35.320+0000] {processor.py:161} INFO - Started process (PID=390) to work on /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:35.321+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_2_real_rocket.py for tasks to queue
+[2026-02-27T16:17:35.323+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:35.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:35.340+0000] {processor.py:840} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/mini_2_real_rocket.py
+[2026-02-27T16:17:35.362+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:35.362+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-02-27T16:17:35.370+0000] {logging_mixin.py:188} INFO - [2026-02-27T16:17:35.370+0000] {dag.py:3947} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-02-27T16:17:35.385+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_2_real_rocket.py took 0.069 seconds
