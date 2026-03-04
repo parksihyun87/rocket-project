@@ -3197,3 +3197,10 @@
 [2026-03-04T06:06:35.951+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:06:35.951+0000] {dag.py:3089} INFO - Sync 1 DAGs
 [2026-03-04T06:06:36.087+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:06:36.087+0000] {dag.py:3947} INFO - Setting next_dagrun for daily_user_stats to 2026-03-03 00:00:00+00:00, run_after=2026-03-04 00:00:00+00:00
 [2026-03-04T06:06:36.098+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_3_schedule.py took 0.389 seconds
+[2026-03-04T06:07:06.322+0000] {processor.py:161} INFO - Started process (PID=12738) to work on /opt/airflow/dags/mini_3_schedule.py
+[2026-03-04T06:07:06.323+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_3_schedule.py for tasks to queue
+[2026-03-04T06:07:06.324+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.323+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_3_schedule.py
+[2026-03-04T06:07:06.617+0000] {processor.py:840} INFO - DAG(s) 'daily_user_stats' retrieved from /opt/airflow/dags/mini_3_schedule.py
+[2026-03-04T06:07:06.757+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.757+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-04T06:07:06.769+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.769+0000] {dag.py:3947} INFO - Setting next_dagrun for daily_user_stats to 2026-03-03 00:00:00+00:00, run_after=2026-03-04 00:00:00+00:00
+[2026-03-04T06:07:06.779+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_3_schedule.py took 0.462 seconds

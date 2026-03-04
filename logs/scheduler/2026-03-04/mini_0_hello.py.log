@@ -3204,3 +3204,10 @@
 [2026-03-04T06:06:35.881+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:06:35.881+0000] {dag.py:3089} INFO - Sync 1 DAGs
 [2026-03-04T06:06:35.891+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:06:35.891+0000] {dag.py:3947} INFO - Setting next_dagrun for mini_0_hello to None, run_after=None
 [2026-03-04T06:06:35.905+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_0_hello.py took 0.069 seconds
+[2026-03-04T06:07:06.441+0000] {processor.py:161} INFO - Started process (PID=12747) to work on /opt/airflow/dags/mini_0_hello.py
+[2026-03-04T06:07:06.442+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_0_hello.py for tasks to queue
+[2026-03-04T06:07:06.442+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.442+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_0_hello.py
+[2026-03-04T06:07:06.456+0000] {processor.py:840} INFO - DAG(s) 'mini_0_hello' retrieved from /opt/airflow/dags/mini_0_hello.py
+[2026-03-04T06:07:06.482+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.482+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-04T06:07:06.492+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.492+0000] {dag.py:3947} INFO - Setting next_dagrun for mini_0_hello to None, run_after=None
+[2026-03-04T06:07:06.506+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_0_hello.py took 0.070 seconds
