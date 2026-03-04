@@ -3211,3 +3211,17 @@
 [2026-03-04T06:07:06.391+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.391+0000] {dag.py:3089} INFO - Sync 1 DAGs
 [2026-03-04T06:07:06.399+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:06.399+0000] {dag.py:3947} INFO - Setting next_dagrun for mini_1_etl_skeleton to None, run_after=None
 [2026-03-04T06:07:06.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_1_etl_skeleton.py took 0.087 seconds
+[2026-03-04T06:07:37.008+0000] {processor.py:161} INFO - Started process (PID=12768) to work on /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:07:37.009+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_1_etl_skeleton.py for tasks to queue
+[2026-03-04T06:07:37.009+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:37.009+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:07:37.048+0000] {processor.py:840} INFO - DAG(s) 'mini_1_etl_skeleton' retrieved from /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:07:37.072+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:37.072+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-04T06:07:37.082+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:07:37.082+0000] {dag.py:3947} INFO - Setting next_dagrun for mini_1_etl_skeleton to None, run_after=None
+[2026-03-04T06:07:37.096+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_1_etl_skeleton.py took 0.092 seconds
+[2026-03-04T06:08:07.618+0000] {processor.py:161} INFO - Started process (PID=12795) to work on /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:08:07.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/mini_1_etl_skeleton.py for tasks to queue
+[2026-03-04T06:08:07.619+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:08:07.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:08:07.659+0000] {processor.py:840} INFO - DAG(s) 'mini_1_etl_skeleton' retrieved from /opt/airflow/dags/mini_1_etl_skeleton.py
+[2026-03-04T06:08:07.682+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:08:07.681+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2026-03-04T06:08:07.690+0000] {logging_mixin.py:188} INFO - [2026-03-04T06:08:07.689+0000] {dag.py:3947} INFO - Setting next_dagrun for mini_1_etl_skeleton to None, run_after=None
+[2026-03-04T06:08:07.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/mini_1_etl_skeleton.py took 0.090 seconds
