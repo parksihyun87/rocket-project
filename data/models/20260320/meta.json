@@ -1,0 +1,10 @@
+{
+  "model_type": "LeNet5",
+  "num_classes": 10,
+  "input_shape": [
+    1,
+    28,
+    28
+  ],
+  "test_accuracy": 0.9802
+}
